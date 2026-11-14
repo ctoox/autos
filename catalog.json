@@ -1,0 +1,35 @@
+{
+  "project": "autos",
+  "description": "3D 模型代码化收集器",
+  "models": [
+    {
+      "name": "xlab-models",
+      "category": "xlab",
+      "source": "git.xen/xen/xlab",
+      "status": "pending",
+      "model": "deepseek-v3",
+      "notes": "xlab 项目 3D 模型，待导入"
+    },
+    {
+      "name": "vehicle-model",
+      "category": "vehicle",
+      "source": "local",
+      "status": "pending",
+      "model": "deepseek-v3",
+      "notes": "车辆 3D 模型，待导入"
+    }
+  ],
+  "preferred_models": [
+    "deepseek-v3",
+    "deepseek-r1",
+    "qwen-max",
+    "qwen-coder",
+    "glm-4-plus"
+  ],
+  "excluded_models": [
+    "gpt-*",
+    "claude-*",
+    "gemini-*"
+  ],
+  "last_updated": "2026-11-15"
+}

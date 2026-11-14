@@ -1,0 +1,14 @@
+{
+  "name": "vehicle-model",
+  "category": "vehicle",
+  "source": "local",
+  "source_type": "file",
+  "format": "unknown",
+  "vertices": 0,
+  "triangles": 0,
+  "materials": 0,
+  "model": "deepseek-v3",
+  "status": "pending",
+  "created": "2026-11-15",
+  "notes": "车辆 3D 模型，待导入源文件后开始代码化"
+}

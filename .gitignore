@@ -1,0 +1,28 @@
+# 3D model files (binary formats, tracked via LFS or source code)
+*.glb
+*.gltf
+*.obj
+*.fbx
+*.stl
+*.3mf
+*.dae
+*.ply
+*.bin
+
+# Thumbnails / previews
+*.png.bak
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temp
+*.tmp
+*.log

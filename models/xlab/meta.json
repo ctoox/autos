@@ -1,0 +1,14 @@
+{
+  "name": "xlab-models",
+  "category": "xlab",
+  "source": "git.xen/xen/xlab",
+  "source_type": "git",
+  "format": "unknown",
+  "vertices": 0,
+  "triangles": 0,
+  "materials": 0,
+  "model": "deepseek-v3",
+  "status": "pending",
+  "created": "2026-11-15",
+  "notes": "xlab 项目的 3D 模型，来自 git.xen，待导入源文件后开始代码化"
+}
