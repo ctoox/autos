@@ -1,12 +1,14 @@
 {
   "project": "autos",
   "description": "3D 模型代码化收集器",
+  "model_provider": "workbuddy",
   "models": [
     {
       "name": "xlab-models",
       "category": "xlab",
       "source": "git.xen/xen/xlab",
       "status": "pending",
+      "model_provider": "workbuddy",
       "model": "deepseek-v3",
       "notes": "xlab 项目 3D 模型，待导入"
     },
@@ -15,8 +17,18 @@
       "category": "vehicle",
       "source": "local",
       "status": "pending",
+      "model_provider": "workbuddy",
       "model": "deepseek-v3",
       "notes": "车辆 3D 模型，待导入"
+    },
+    {
+      "name": "teleagent-models",
+      "category": "teleagent",
+      "source": "pending",
+      "status": "pending",
+      "model_provider": "workbuddy",
+      "model": "deepseek-v3",
+      "notes": "teleagent 项目 3D 模型，待导入"
     }
   ],
   "preferred_models": [

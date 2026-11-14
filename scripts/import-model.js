@@ -71,6 +71,7 @@ function main() {
     source_type: "file",
     format: ext.slice(1),
     ...stats,
+    model_provider: "workbuddy",
     model: "deepseek-v3",
     status: "imported",
     created: new Date().toISOString().slice(0, 10),
